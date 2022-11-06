@@ -1,0 +1,11 @@
+C:\Users\Admin\RiderProjects\LaiSuatCalculation\LaiSuatCalculation\bin\Debug\LaiSuatCalculation.exe.config
+C:\Users\Admin\RiderProjects\LaiSuatCalculation\LaiSuatCalculation\bin\Debug\LaiSuatCalculation.exe
+C:\Users\Admin\RiderProjects\LaiSuatCalculation\LaiSuatCalculation\bin\Debug\LaiSuatCalculation.pdb
+C:\Users\Admin\RiderProjects\LaiSuatCalculation\LaiSuatCalculation\obj\Debug\LaiSuatCalculation.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\LaiSuatCalculation\LaiSuatCalculation\obj\Debug\LaiSuatCalculation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\RiderProjects\LaiSuatCalculation\LaiSuatCalculation\obj\Debug\LaiSuatCalculation.Properties.Resources.resources
+C:\Users\Admin\RiderProjects\LaiSuatCalculation\LaiSuatCalculation\obj\Debug\LaiSuatCalculation.csproj.GenerateResource.cache
+C:\Users\Admin\RiderProjects\LaiSuatCalculation\LaiSuatCalculation\obj\Debug\LaiSuatCalculation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\LaiSuatCalculation\LaiSuatCalculation\obj\Debug\LaiSuatCalculation.exe
+C:\Users\Admin\RiderProjects\LaiSuatCalculation\LaiSuatCalculation\obj\Debug\LaiSuatCalculation.pdb
+C:\Users\Admin\RiderProjects\LaiSuatCalculation\LaiSuatCalculation\obj\Debug\LaiSuatCalculation.Form1.resources
